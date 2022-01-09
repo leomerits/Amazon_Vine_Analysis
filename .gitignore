@@ -33,6 +33,13 @@ MANIFEST
 *.manifest
 *.spec
 
+# Module folder
+Module
+
+# Challenge folder
+Resources
+Amazon_Reviews_ETL_starter_code
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
